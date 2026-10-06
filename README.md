@@ -8,16 +8,13 @@
   <img src="https://img.shields.io/badge/Socket.io-4.7.5-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
   <img src="https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" />
 </p>
 
 SyncBoard is a full-stack, real-time collaborative Kanban application modeled after Trello. Built with the **MERN** stack and **Socket.io**, changes made by any user—such as dragging cards between columns, editing task metadata, or deleting items—are immediately persisted to **MongoDB** and broadcasted live to all connected clients without needing a page refresh.
 
 ---
 
-## 📸 Screenshots
-
-> *Add screenshots or a GIF of your running application here!*
+## 📸 Structure
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────┐
