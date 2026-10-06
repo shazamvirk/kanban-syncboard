@@ -1,5 +1,5 @@
 
-```markdown
+
 # ⚡ SyncBoard — Real-Time Collaborative Kanban Workspace
 
 <p align="center">
